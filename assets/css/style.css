@@ -778,7 +778,7 @@ a:hover {
 
 .hero .hero-title {
   color: rgb(255, 255, 255);
-  position: absolute;
+  position: relative;
   top: 25%;
   width: 100%;
   font-weight: 600;
